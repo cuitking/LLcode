@@ -1,0 +1,7 @@
+﻿import os, sys, platform
+
+Import('env')
+env=env.Clone()
+env['LIBS'] = env['LIBS'] + ['lua51']
+env['LIBPATH'] = env['LIBPATH'] + ['../lua']
+env.SharedLibrary('profiler', Split('checker.c lookup3.c lua50_profiler.c performance_counter.c profiler.def'), CPPPATH=env['CPPPATH'] + ['./','../lua/'] )

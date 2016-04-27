@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "profiler", "luaProfiler.vcproj", "{7DB154EC-6F2D-45FB-BFF0-327F9D356349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-dll|Win32 = Debug-dll|Win32
+		Release|Win32 = Release|Win32
+		Release-dll|Win32 = Release-dll|Win32
+		Retail|Win32 = Retail|Win32
+		Retail-dll|Win32 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Debug|Win32.Build.0 = Debug|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Release|Win32.ActiveCfg = Release|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Release|Win32.Build.0 = Release|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Release-dll|Win32.Build.0 = Release-dll|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Retail|Win32.ActiveCfg = Retail|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Retail|Win32.Build.0 = Retail|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Retail-dll|Win32.ActiveCfg = Retail-dll|Win32
+		{7DB154EC-6F2D-45FB-BFF0-327F9D356349}.Retail-dll|Win32.Build.0 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

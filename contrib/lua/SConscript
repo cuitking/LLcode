@@ -1,0 +1,5 @@
+﻿import os, sys, platform
+
+Import('env')
+env=env.Clone()
+env.SharedLibrary('lua51', ['src/ljamalg.c', 'src/lj_vm.obj'], CPPPATH=env['CPPPATH'] + ['./'])

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mongoclient", "mongoclient.vcproj", "{4C18717C-03C3-4F98-B75E-F65C6747A6C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-dll|Win32 = Debug-dll|Win32
+		Release|Win32 = Release|Win32
+		Release-dll|Win32 = Release-dll|Win32
+		Retail|Win32 = Retail|Win32
+		Retail-dll|Win32 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Debug|Win32.Build.0 = Debug|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Release|Win32.ActiveCfg = Release|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Release|Win32.Build.0 = Release|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Release-dll|Win32.Build.0 = Release-dll|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Retail|Win32.ActiveCfg = Retail|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Retail|Win32.Build.0 = Retail|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Retail-dll|Win32.ActiveCfg = Retail-dll|Win32
+		{4C18717C-03C3-4F98-B75E-F65C6747A6C8}.Retail-dll|Win32.Build.0 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

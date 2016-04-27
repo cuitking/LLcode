@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lua51", "..\lua51\lua51.vcproj", "{4B602777-D841-4CA6-8155-0C4795F378D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luajit", "luajit.vcproj", "{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-dll|Win32 = Debug-dll|Win32
+		Release|Win32 = Release|Win32
+		Release-dll|Win32 = Release-dll|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Debug|Win32.Build.0 = Debug|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Release|Win32.ActiveCfg = Release|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Release|Win32.Build.0 = Release|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{4B602777-D841-4CA6-8155-0C4795F378D4}.Release-dll|Win32.Build.0 = Release-dll|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Debug|Win32.Build.0 = Debug|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Release|Win32.ActiveCfg = Release|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Release|Win32.Build.0 = Release|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{9DB2F864-0730-4643-9FD3-A467B1C6F9AB}.Release-dll|Win32.Build.0 = Release-dll|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

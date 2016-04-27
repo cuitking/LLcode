@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luaMongo", "luaMongo.vcproj", "{F3F3137B-F954-4700-94C6-E7115585E3BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testluaMongo", "testluaMongo\testluaMongo.vcproj", "{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-dll|Win32 = Debug-dll|Win32
+		Release|Win32 = Release|Win32
+		Release-dll|Win32 = Release-dll|Win32
+		Retail|Win32 = Retail|Win32
+		Retail-dll|Win32 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Debug|Win32.Build.0 = Debug|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Release|Win32.ActiveCfg = Release|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Release|Win32.Build.0 = Release|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Release-dll|Win32.Build.0 = Release-dll|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Retail|Win32.ActiveCfg = Retail|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Retail|Win32.Build.0 = Retail|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Retail-dll|Win32.ActiveCfg = Retail-dll|Win32
+		{F3F3137B-F954-4700-94C6-E7115585E3BE}.Retail-dll|Win32.Build.0 = Retail-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Debug|Win32.Build.0 = Debug|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Debug-dll|Win32.ActiveCfg = Debug-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Debug-dll|Win32.Build.0 = Debug-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Release|Win32.ActiveCfg = Release|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Release|Win32.Build.0 = Release|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Release-dll|Win32.ActiveCfg = Release-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Release-dll|Win32.Build.0 = Release-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Retail|Win32.ActiveCfg = Retail|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Retail|Win32.Build.0 = Retail|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Retail-dll|Win32.ActiveCfg = Retail-dll|Win32
+		{F8CAA54A-B5C2-4AC7-8578-0D5453B35158}.Retail-dll|Win32.Build.0 = Retail-dll|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

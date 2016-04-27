@@ -1,0 +1,44 @@
+#ifndef SCGL_TIOSTREAM_H
+#define SCGL_TIOSTREAM_H
+
+#include <iosfwd>
+#include <string>
+
+namespace scgl
+{
+
+#ifdef  _UNICODE
+
+typedef std::wstring            tstring;
+typedef std::wistream           tistream;
+typedef std::wostream           tostream;
+typedef std::wstringstream      tstringstream;
+typedef std::wistringstream     tistringstream;
+typedef std::wostringstream     tostringstream;
+typedef std::wfstream           tfstream;
+typedef std::wifstream          tifstream;
+typedef std::wofstream          tofstream;
+
+//#define tcout                   std::wcout
+//#define tcin                    std::wcin
+
+#else
+
+typedef std::string             tstring;
+typedef std::istream            tistream;
+typedef std::ostream            tostream;
+typedef std::stringstream       tstringstream;
+typedef std::istringstream      tistringstream;
+typedef std::ostringstream      tostringstream;
+typedef std::fstream            tfstream;
+typedef std::ifstream           tifstream;
+typedef std::ofstream           tofstream;
+
+//#define tcout                   std::cout
+//#define tcin                    std::cin
+
+#endif
+
+}
+
+#endif
